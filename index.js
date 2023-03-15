@@ -48,6 +48,7 @@ window.onload = () => {
             th2.innerHTML = "Display value";
             thr.appendChild(th1);
             thr.appendChild(th2)
+            thead.appendChild(thr)
     //tbody
     let tbody = document.createElement("tbody")
 
